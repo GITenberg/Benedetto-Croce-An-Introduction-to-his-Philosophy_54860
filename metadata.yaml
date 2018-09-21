@@ -8,12 +8,17 @@ contributor:
     deathdate: 1931
     gutenberg_agent_id: '7145'
     url: http://www.gutenberg.org/2009/agents/7145
+covers:
+- cover_type: archival
+  image_path: 54860-h/images/cover.jpg
 creator:
   author:
     agent_name: Piccoli, Raffaello
     gutenberg_agent_id: '48078'
     url: http://www.gutenberg.org/2009/agents/48078
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54860#Benedetto-Croce-An-Introduction-to-his-Philosophy
 gutenberg_issued: '2017-06-07'
 gutenberg_type: Text
 identifiers:
